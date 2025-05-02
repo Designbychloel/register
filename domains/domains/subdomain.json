@@ -1,0 +1,11 @@
+{
+    "description": "show portfolio",
+    "repo": "https://github.com/github-Designbychloel/github-repository",
+    "owner": {
+        "username": "Designbychloel",
+        "email": "Designbychloel@gmail.com"
+    },
+    "records": {
+        "CNAME": "Designbychloel.github.io"
+    }
+}
